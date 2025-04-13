@@ -13,7 +13,7 @@
 # Frontend skills
 
 	- React.js, React Native, Next.js, Redux-Saga, Redux-Thunk
-	- Svelte, Angular, Lit
+	- Vue, Vuetify, Nuxt, Ember, Svelte, Angular, Lit
 
 	- HTML5, CSS3, SASS / Bootstrap, Styled components
 	- JavaScript, TypeScript, jQuery, Ajax
@@ -112,6 +112,30 @@
       <br>Svelte
     </td>
     <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=ember" width="48" height="48" alt="ember" />
+        <br>Ember
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="nextjs" />
+        <br>Nextjs
+    </td>
+    
+    
+  </tr>
+ <tr>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=nuxtjs" width="48" height="48" alt="nuxtjs" />
+      <br>Nuxtjs
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=wordpress" width="48" height="48" alt="WordPress" />
       <br>WordPress
     </td>
@@ -119,18 +143,29 @@
         <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
       <br>Nodejs
     </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="express" />
+      <br>Express
+    </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=laravel" width="48" height="48" alt="Laravel" />
       <br>Laravel
     </td>
-    
-  </tr>
- <tr>
     <td align="center" width="96">
-	    <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-	  <br>Django
+        <img src="https://skillicons.dev/icons?i=flask" width="48" height="48" alt="flask" />
+      <br>Flask
     </td>
     <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="docker" />
+      <br>Docker
+    </td>
+ </tr>
+ <tr>
+	 <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
       <br>MySQL
     </td>
@@ -145,6 +180,10 @@
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="MySQL" />
       <br>GraphQL
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="supabase" />
+      <br>Supabase
     </td>
     <td align="center" width="96">
         <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
@@ -166,7 +205,7 @@
 </table>
 <br><br>
 
-- 📫 How to reach me: happyguru1215@gmail.com
+- 📫 How to reach me: web.dev.fan@hotmail.com
 
 </div>
 <br/>
