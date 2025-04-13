@@ -12,13 +12,13 @@
 
 # Frontend skills
 
-- React.js, React Native, Next.js, Redux-Saga, Redux-Thunk
-- Svelte, Angular, Lit
+	- React.js, React Native, Next.js, Redux-Saga, Redux-Thunk
+	- Svelte, Angular, Lit
 
-- HTML5, CSS3, SASS / Bootstrap, Styled components
-- JavaScript, TypeScript, jQuery, Ajax
-- Tailwind CSS / Shadcn UI / Ant Design / Material Design / LESS / SASS
-- WebPack, NPM, Yarn
+	- HTML5, CSS3, SASS / Bootstrap, Styled components
+	- JavaScript, TypeScript, jQuery, Ajax
+	- Tailwind CSS / Shadcn UI / Ant Design / Material Design / LESS / SASS
+	- WebPack, NPM, Yarn
 
 # Backend skills
 
