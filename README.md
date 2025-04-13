@@ -108,7 +108,7 @@
       <br>Vue
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/top2hightech/top2hightech/blob/main/Svelte.svg" width="65" height="65" alt="Svelte" />
+        <img src="https://skillicons.dev/icons?i=svelte" width="48" height="48" alt="svelte" />
       <br>Svelte
     </td>
     <td align="center" width="96">
